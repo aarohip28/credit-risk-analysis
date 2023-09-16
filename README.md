@@ -1,6 +1,6 @@
 # credit-risk-analysis
-TASK DESCRIPTION: Work on a credit risk analysis project where you predict the likelihood of a customer defaulting on a loan. Use historical loan data and various machine learning algorithms to create a 
-predictive model.
+TASK DESCRIPTION: Work on a credit risk analysis project where you predict the likelihood of a customer defaulting on a loan. Use historical loan data and various machine learning algorithms to create a predictive model.
+
 Step 1: Data Collection and Preprocessing:
 
 a) Data Collection: Gather historical loan data that includes features such as customer information (e.g., age, income, employment status), loan details (e.g., loan amount, interest rate, 
